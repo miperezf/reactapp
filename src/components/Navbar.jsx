@@ -9,7 +9,7 @@ export function Nav() {
     <div>
       <a className="mx-2 my-1 flex items-center text-neutral-900 hover:text-neutral-900 focus:text-neutral-900 lg:mb-0 lg:mt-0"
         href="/">
-            <img className="mr-2" src="./src/img/pngwing.com.png" alt="" loading="lazy"/>
+            <img className="mr-2" src="src/img/pngwing.com.png" alt="" loading="lazy"/>
           <span class="font-medium dark:text-neutral-200"
           >Ecommerce Shop</span>
       </a>
